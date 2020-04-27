@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ricknmortyproject/static/css/main.d585c926.chunk.css",
+    "main.js": "/ricknmortyproject/static/js/main.32057ede.chunk.js",
+    "main.js.map": "/ricknmortyproject/static/js/main.32057ede.chunk.js.map",
+    "runtime-main.js": "/ricknmortyproject/static/js/runtime-main.0d890f28.js",
+    "runtime-main.js.map": "/ricknmortyproject/static/js/runtime-main.0d890f28.js.map",
+    "static/css/2.f8f39c16.chunk.css": "/ricknmortyproject/static/css/2.f8f39c16.chunk.css",
+    "static/js/2.de2becc2.chunk.js": "/ricknmortyproject/static/js/2.de2becc2.chunk.js",
+    "static/js/2.de2becc2.chunk.js.map": "/ricknmortyproject/static/js/2.de2becc2.chunk.js.map",
+    "index.html": "/ricknmortyproject/index.html",
+    "precache-manifest.a75dbf8254bdf03cb7c7150e1dc59bae.js": "/ricknmortyproject/precache-manifest.a75dbf8254bdf03cb7c7150e1dc59bae.js",
+    "service-worker.js": "/ricknmortyproject/service-worker.js",
+    "static/css/2.f8f39c16.chunk.css.map": "/ricknmortyproject/static/css/2.f8f39c16.chunk.css.map",
+    "static/css/main.d585c926.chunk.css.map": "/ricknmortyproject/static/css/main.d585c926.chunk.css.map",
+    "static/js/2.de2becc2.chunk.js.LICENSE.txt": "/ricknmortyproject/static/js/2.de2becc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d890f28.js",
+    "static/css/2.f8f39c16.chunk.css",
+    "static/js/2.de2becc2.chunk.js",
+    "static/css/main.d585c926.chunk.css",
+    "static/js/main.32057ede.chunk.js"
+  ]
+}
