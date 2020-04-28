@@ -14,13 +14,13 @@ const styValues = (cell, row, rowIndex, colIndex) => {
   if (rowIndex % 2 === 0) {
     return {
       backgroundColor: '#fff',
-      fontSize: '1rem',
+      overflowX: 'hidden'
     
     };
   }
   return {
     backgroundColor: '#D3D3D3',
-    fontSize: '1rem'
+    overflowX: 'hidden'
   };
 }
 const headerStyle={
@@ -114,7 +114,7 @@ class Episodes extends React.Component {
     );
 
     return (
-      <div className="fadeIn"> 
+      <div className="textSize fadeIn"> 
         <PaginationProvider
           pagination={
             paginationFactory(options)

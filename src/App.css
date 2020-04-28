@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 0.9rem;
 }
 .adjustSides{
   max-width: 500px;
@@ -21,6 +22,15 @@
   }
 } */
 
+@media screen and (max-width : 500px)
+{
+  .App 
+  {
+    font-size:0.7rem;
+    text-align: center;
+
+  }
+}
 
 .fadeIn{
   

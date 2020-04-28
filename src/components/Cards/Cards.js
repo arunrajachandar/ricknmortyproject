@@ -12,9 +12,9 @@ export default function Cards({characters}){
             {       
                     characters.map((e,i)=>{
                         return (
-                            <Col xl={3} lg={4} mg={6} sm={12} key={i}> 
+                            <Col xl={3} lg={4} mg={6} xs={12} sm={6} key={i}> 
                             <Card className="text-white m-4 br-2 rounded" >
-                        <Card.Img src={`${e.image}?50*50`} className="rounded mx-auto d-block img" />
+                        <Card.Img src={`${e.image}`} className="rounded mx-auto d-block img" />
                         <Card.ImgOverlay>
                           <Card.Text className="name">{e.name}</Card.Text>
                         </Card.ImgOverlay>
